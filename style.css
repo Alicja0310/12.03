@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(41, 39, 39);
+}
+
+
+.pokemon{
+    color: #00ff00;
+    background-color: plum;
+    font-size: 40px;
+}
+
+.hotpink{
+    background-color: honeydew;
+    color: hotpink;
+    font-size: 40px;
+}
+
